@@ -1,0 +1,3 @@
+requetsts
+beautifulsoup4
+lxml
